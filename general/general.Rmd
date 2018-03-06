@@ -1,0 +1,12 @@
+---
+title: "General"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R related blockchain
+
+The general directory will include growing resources of R related blockchain examples such as block generation code, data analytics on blocks, and other general dapp developments.
